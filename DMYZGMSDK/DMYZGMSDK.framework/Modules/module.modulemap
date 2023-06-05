@@ -1,6 +1,0 @@
-framework module DMYZGMSDK {
-  umbrella header "DMYZGMSDK.h"
-
-  export *
-  module * { export * }
-}
